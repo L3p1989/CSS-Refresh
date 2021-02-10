@@ -1,10 +1,28 @@
+/*Changes font, and background color of whole page*/
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: lightgray;
 }
 
+/*Centers all text*/
 div > h2,
 p,
 .readme-wrapper {
   text-align: center;
+}
+
+/*Changes color of unvisited links and removes underline*/
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+/*Changes color of visited links*/
+a:visited {
+  color: green;
+}
+
+/*Changes color of links when moused over*/
+a:hover {
+  color: purple;
 }
