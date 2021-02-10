@@ -29,7 +29,18 @@ a:hover {
   color: purple;
 }
 
+/*Changes color of text and makes text bold*/
 span {
   color: crimson;
   font-weight: bold;
+}
+
+/*adds a margin, adds padding, adds a solid border with a custom color, adds a border radius to round the edges of the border, adds a width of 30em*/
+.boxes {
+  margin: 1px;
+  padding: 1px;
+  border-style: solid;
+  border-color: darkgreen;
+  border-radius: 5%;
+  width: 30em;
 }
