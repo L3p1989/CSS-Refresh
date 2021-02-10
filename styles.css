@@ -35,9 +35,9 @@ span {
   font-weight: bold;
 }
 
-/*modifies display to inline-block adds a margin, adds padding, adds a solid border with a custom color, adds a border radius to round the edges of the border, adds a width of 30em*/
+/*modifies display to block adds a margin, adds padding, adds a solid border with a custom color, adds a border radius to round the edges of the border, adds a width of 30em*/
 .boxes {
-  display: inline-block;
+  display: block;
   margin: 1px;
   padding: 1px;
   border-style: solid;
