@@ -63,3 +63,8 @@ span {
   position: absolute;
   left: 4%;
 }
+
+/*Adds color to text*/
+h1 {
+  color: crimson;
+}
