@@ -60,4 +60,6 @@ span {
   width: 50px;
   border-radius: 50px;
   background-color: white;
+  position: absolute;
+  left: 4%;
 }
