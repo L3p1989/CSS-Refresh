@@ -53,10 +53,3 @@ span {
   background-color: black;
   color: white;
 }
-
-/*Changes position of box2 to absolute, uses left/bottom position to nudge next to box1*/
-#box2 {
-  position: absolute;
-  left: 31.5em;
-  bottom: 35.5em;
-}
