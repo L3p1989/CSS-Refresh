@@ -68,3 +68,13 @@ span {
 h1 {
   color: crimson;
 }
+
+/*adds color to text to .original h1s*/
+.original {
+  color: darkgreen;
+}
+
+/*adds color to text for .additional h1s*/
+.additional {
+  color: purple;
+}
