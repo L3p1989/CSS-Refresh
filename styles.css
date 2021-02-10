@@ -54,7 +54,9 @@ span {
   color: white;
 }
 
-/*Changes position of box2 to relative*/
+/*Changes position of box2 to relative, uses left/bottom position to nudge next to box1*/
 #box2 {
   position: relative;
+  left: 31em;
+  bottom: 17em;
 }
