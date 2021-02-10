@@ -44,3 +44,11 @@ span {
   border-radius: 5%;
   width: 30em;
 }
+
+/*adds new background color to boxes*/
+#box1,
+#box2,
+#boxN {
+  background-color: black;
+  color: white;
+}
